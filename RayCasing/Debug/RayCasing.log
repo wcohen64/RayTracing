@@ -1,0 +1,77 @@
+﻿Build started 11/18/2015 4:52:23 PM.
+     1>Project "C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\RayCasing\RayCasing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\William\Documents\Visual Studio 2013\freeglut\include\\" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\RayCasing.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BlinnPhong.cpp ClippedQuadric.cpp DiffuseMaterial.cpp Hit.cpp Intersectable.cpp main.cpp Material.cpp Plane.cpp Quadric.cpp Scene.cpp
+         BlinnPhong.cpp
+         Generating Code...
+         Compiling...
+         Scene.cpp
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\pointlight.h(20): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\float4x4.h(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(12): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\scene.h(28): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\scene.h(87): warning C4305: 'initializing' : truncation from 'double' to 'float'
+         Quadric.cpp
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\float4x4.h(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(12): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Plane.cpp
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\float4x4.h(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(12): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Material.cpp
+         main.cpp
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\main.cpp(1): warning C4603: '_USE_MATH_DEFINES' : macro is not defined or definition is different after precompiled header use
+                 Add macro to precompiled header instead of defining here
+                 c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\main.cpp(2) : use of precompiled header
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\float4x4.h(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\pointlight.h(20): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(12): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\scene.h(28): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\scene.h(87): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\main.cpp(46): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\main.cpp(92): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+         Intersectable.cpp
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\float4x4.h(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(12): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Hit.cpp
+         DiffuseMaterial.cpp
+         ClippedQuadric.cpp
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\float4x4.h(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(12): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\quadraticroots.h(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\Debug\RayCasing.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\William\Documents\Visual Studio 2013\freeglut\lib\\" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\Debug\RayCasing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\Debug\RayCasing.lib" /MACHINE:X86 Debug\BlinnPhong.obj
+         Debug\Camera.obj
+         Debug\ClippedQuadric.obj
+         Debug\DiffuseMaterial.obj
+         Debug\DirectionalLight.obj
+         Debug\Hit.obj
+         Debug\Intersectable.obj
+         Debug\LightSource.obj
+         Debug\main.obj
+         Debug\Material.obj
+         Debug\Plane.obj
+         Debug\PointLight.obj
+         Debug\QuadraticRoots.obj
+         Debug\Quadric.obj
+         Debug\Ray.obj
+         Debug\RayCasing.obj
+         Debug\Scene.obj
+         Debug\stdafx.obj
+         RayCasing.vcxproj -> C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\Debug\RayCasing.exe
+     1>Done Building Project "C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\RayCasing\RayCasing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.42

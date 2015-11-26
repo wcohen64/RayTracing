@@ -1,0 +1,197 @@
+﻿Build started 11/26/2015 2:13:08 PM.
+     1>Project "C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\RayCasing\RayCasing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\William\Documents\Visual Studio 2013\freeglut\include\\" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\RayCasing.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Scene.cpp main.cpp
+         Scene.cpp
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\PointLight.h(20): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Material.h(48): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\BlinnPhong.h(9): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\DarkMarble.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\DarkMarble.h(33): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Marble.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Wood.h(24): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Wood.h(26): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\ChessBoard.h(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\ChessBoard.h(50): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\float4x4.h(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\QuadraticRoots.h(12): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\QuadraticRoots.h(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\QuadraticRoots.h(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(35): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(36): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(53): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(58): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(59): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(63): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(68): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(71): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(72): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(84): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(88): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(89): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(92): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(93): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(97): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(102): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(106): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(107): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(111): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(112): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(116): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(117): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(120): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(121): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(140): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(144): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(145): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(148): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(149): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(152): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(153): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(157): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(163): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(166): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(167): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(171): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(172): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(176): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(177): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(180): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(181): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(201): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(205): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(206): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(209): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(210): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(213): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(214): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(218): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(224): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(227): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(228): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(232): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(233): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(237): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(238): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(241): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(242): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(245): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(246): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(306): warning C4305: 'initializing' : truncation from 'double' to 'float'
+         main.cpp
+     1>main.cpp(1): warning C4603: '_USE_MATH_DEFINES' : macro is not defined or definition is different after precompiled header use
+                 Add macro to precompiled header instead of defining here
+                 main.cpp(2) : use of precompiled header
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\float4x4.h(268): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\PointLight.h(20): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Material.h(48): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\BlinnPhong.h(9): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\DarkMarble.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\DarkMarble.h(33): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Marble.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Wood.h(24): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Wood.h(26): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\ChessBoard.h(49): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\ChessBoard.h(50): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\QuadraticRoots.h(12): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\QuadraticRoots.h(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\QuadraticRoots.h(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(35): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(36): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(53): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(58): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(59): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(63): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(67): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(68): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(71): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(72): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(84): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(88): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(89): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(92): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(93): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(97): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(102): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(106): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(107): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(111): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(112): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(116): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(117): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(120): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(121): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(140): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(144): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(145): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(148): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(149): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(152): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(153): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(157): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(163): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(166): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(167): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(171): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(172): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(176): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(177): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(180): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(181): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(201): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(205): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(206): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(209): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(210): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(213): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(214): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(218): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(224): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(227): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(228): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(232): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(233): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(237): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(238): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(241): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(242): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(245): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(246): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\william\documents\visual studio 2013\projects\raycasing\raycasing\Scene.h(306): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>main.cpp(44): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(87): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\Release\RayCasing.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\William\Documents\Visual Studio 2013\freeglut\lib\\" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\Release\RayCasing.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\Release\RayCasing.lib" /MACHINE:X86 /SAFESEH Release\BlinnPhong.obj
+         Release\Camera.obj
+         Release\ChessBoard.obj
+         Release\ClippedQuadric.obj
+         Release\DarkMarble.obj
+         Release\Dielectric.obj
+         Release\DiffuseMaterial.obj
+         Release\DirectionalLight.obj
+         Release\Hit.obj
+         Release\Intersectable.obj
+         Release\LightSource.obj
+         Release\main.obj
+         Release\Marble.obj
+         Release\Material.obj
+         Release\Metal.obj
+         Release\Plane.obj
+         Release\PointLight.obj
+         Release\QuadraticRoots.obj
+         Release\Quadric.obj
+         Release\Ray.obj
+         Release\RayCasing.obj
+         Release\RoughDiffuse.obj
+         Release\Scene.obj
+         Release\stdafx.obj
+         Release\Wood.obj
+         Generating code
+         Finished generating code
+         RayCasing.vcxproj -> C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\Release\RayCasing.exe
+     1>Done Building Project "C:\Users\William\Documents\Visual Studio 2013\Projects\RayCasing\RayCasing\RayCasing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.83
